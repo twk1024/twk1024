@@ -32,7 +32,7 @@
 # :package: PocketMine-MP Plugins
 
 <div align="center">
-  <p>PMMP 배포용 플러그인</p>
+  ### PMMP 배포용 플러그인입니다<br>
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-McbeRank)](https://github.com/twk1024/DIA-McbeRank)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-CheckCPU)](https://github.com/twk1024/DIA-CheckCPU)
   
