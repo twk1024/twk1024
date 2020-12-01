@@ -30,7 +30,7 @@
 <br><br>
 
 # :package: PocketMine-MP Plugins
-### PMMP 배포용 플러그인입니다
+### ⚡ PMMP 배포용 플러그인
 <div align="center">
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-McbeRank)](https://github.com/twk1024/DIA-McbeRank)
