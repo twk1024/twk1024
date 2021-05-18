@@ -15,7 +15,7 @@
 <br>
 <br>
 
-저는 php, C++ 언어를 다루며, [PocketMine-MP](https://pmmp.io/) 플러그인 개발을 주로 하고 있습니다.
+저는 php, C++ 언어를 다루고 있는 학생입니다.
 
 <br>
 <p align="center">
@@ -33,7 +33,7 @@
 ### ⚡ PMMP 배포용 플러그인
 <div align="center">
   
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-McbeRank)](https://github.com/twk1024/DIA-McbeRank)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=BedrockRank)](https://github.com/twk1024/BedrockRank)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-CheckCPU)](https://github.com/twk1024/DIA-CheckCPU)
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-NoDamage)](https://github.com/twk1024/DIA-NoDamage)
@@ -52,5 +52,5 @@
 <div align="center">
   
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=McbeRank-Website-API)](https://github.com/twk1024/McbeRank-Website-API)
-  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-Plus)](https://github.com/twk1024/DIA-Plus)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=twk1024&repo=DIA-Plus-Legacy)](https://github.com/twk1024/DIA-Plus-Legacy)
 </div>
